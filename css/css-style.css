@@ -67,6 +67,12 @@ video {
 #fh5co-gallery {
   position: relative;
 }
+#invited {
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 4px;
+}
 .shape {
   filter: brightness(1) invert(1);
   z-index: 1;

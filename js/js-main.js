@@ -235,7 +235,7 @@
 	const invited = document.getElementById('invited');
 
 	if (to && invited) {
-		invited.innerHTML = `Kepada Yth. ${to}`;
+		invited.innerHTML = to;
 	}
 }());
 
